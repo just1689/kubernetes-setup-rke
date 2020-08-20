@@ -21,6 +21,9 @@ sudo apt update
 sudo apt-fast install docker-ce -y
 
 sudo usermod -aG docker $USER
+
+sudo swapoff -a
+
 exit
 
 #
