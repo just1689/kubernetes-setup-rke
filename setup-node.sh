@@ -1,3 +1,6 @@
+# To run this:
+# source <(curl -s https://raw.githubusercontent.com/just1689/kubernetes-setup-rke/master/setup-node.sh)
+
 # Requirements
 # Ubuntu 18.04, network card on home network, OpenSSH installed during setup.
 
